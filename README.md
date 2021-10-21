@@ -2,7 +2,7 @@
 
 I'm a full stack enginner specializing in React/ Redux, Javascript and Rails
 
-One of the projects I'm most proud of was [PantryChef](https://pantry-chef-mern.herokuapp.com/. In the span of four days, I, along with a couple friends, were able to make a fully fledged recipe search website that shows you what you can make now, with the ingredients in your pantry.
+One of the projects I'm most proud of was [PantryChef](https://pantry-chef-mern.herokuapp.com/). In the span of four days, I, along with a couple friends, were able to make a fully fledged recipe search website that shows you what you can make now, with the ingredients in your pantry.
 
 Another project that I'm super excited about is [Kelp](https://kelp-yelp-clone.herokuapp.com/). It's a seafood based clone of yelp, complete with User Auth, Review Crud, and Google Maps API integration. It took me a little over a week to implement this with rails backend and react/redux frontend.
 
